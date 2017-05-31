@@ -1,0 +1,3 @@
+(function() {var s = "_" + Math.random().toString(36).slice(2);document.write('<div id="' + s + '"></div>');(window.slotbydup=window.slotbydup || []).push({id: '4158448',container: s,size: '0,0',display: 'inlay-fix'});})();
+document.write('<script src="http://dup.baidustatic.com/js/os.js">');
+document.write('</script>');

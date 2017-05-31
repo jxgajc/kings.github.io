@@ -1,0 +1,2 @@
+document.write('<div  style="width:653px;height:100px;border:none;padding:0px;margin:0px;overflow:hidden;"><a href="http://same.chinadaily.com.cn/c?z=chinadaily&la=0&si=20&cg=266&c=2343&ci=55&or=749&l=1541&bg=1541&b=1838&u=http://fashion.chinadaily.com.cn/faner.html" target="_blank"><img src="http://adpic.chinadaily.com.cn/chinadaily/2016/04/0_7.jpg" style="width:653px;height:100px;border:none;" /></a></div>');
+if('http://'!='http://' && 'http://'!=''){document.write('<img src="http://" width="0" height="0" />');}

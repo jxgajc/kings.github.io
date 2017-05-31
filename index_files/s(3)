@@ -1,0 +1,7 @@
+google_ad_client = "ca-pub-7443704194229694";
+/* IDG.CN_B2C_chinadaily.com.cn_300x250_1 */
+google_ad_slot = "5750052304";
+google_ad_width = 300;
+google_ad_height = 250;
+document.write('<script type="text/javascript"src="//pagead2.googlesyndication.com/pagead/show_ads.js">');
+document.write('</script>');
